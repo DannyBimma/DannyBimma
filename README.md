@@ -2,6 +2,7 @@
 # DannyBimma
 
 Hello World, 
+
 My name, as recognised by the government of Barbados is Daniel Trotman. But I call myself DannyBimma, or just Danny for short. If you’re a monolinguist in the English language, you’re probably confused as to why I made a distinction between my name and what I call myself. But if you’re familiar with the Spanish language, you’ll know that they ask “¿Cómo se llama?”. Most people assume this translates to “What’s your name?”, but that’s one of those “sentiment equivalent” translations, a translation that’s widely accepted because it correctly conveys the sentiment. The closet direct translation would actually be “What do you call yourself?”. The reason I’m mentioning all of this in what’s supposed to be a quick self-introduction, is not merely to be pedantic. It serves as practical insight into the way my mind works… by being pedantic. That should tell you most of what you need to know about the way I approach writing and reading code 😁 !!
 
 p.s. there are way to many software developers named Daniel, it’s inevitable that we’ll eventually reach a developer singularity where all software devs are just people named Daniel.
