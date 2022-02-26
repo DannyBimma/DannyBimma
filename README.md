@@ -14,7 +14,7 @@ p.s. there are way to many software developers named Daniel, it’s inevitable t
 
 The thought of willingly creating an array of complex problems for myself to solve on behalf of building things for other people would’ve been absolutely bonkers to me 2.5 years ago, but now, it’s just kinda strange! 
 For 28 years I lived my life and never even experienced a fleeting thought of being  a software developer, but then in the year 2020 something happened and my whole world got flipped turned upside down. The “you know what” caused me to be quickly out of my job as Storeroom Clerk at the Coconut Court Beach Hotel in the beautiful island of Barbados. This turned out to be massively unfortunate as I had been working and saving as much as possible to start my own business (something I’d wanted to do since I was a wee little lad) 🙋🏽‍♂️
-Long story slightly less long, the business I wanted to start would’ve been built around a fairly complex website to provide a sorely needed service for my island. As I no longer had the money to pay a competent engineer/s their worth to build such a website, I had to train myself to become one. And so started my dev journey and the discovery of my love for all things code that went hitherto unexplored.
+Long story slightly less long, the business I wanted to start would’ve been built around a fairly complex website to provide a sorely needed service for my island. As I no longer had the money to pay a competent engineer/s their worth to build such a website, I had to train myself to become one. And so started my dev journey and the discovery of my love for all things code, a love that went hitherto unexplored!
 
 * SaaSy Entrepreneurship 
 
