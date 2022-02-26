@@ -19,7 +19,7 @@ Long story slightly less long, the business I wanted to start would’ve been bu
 * SaaSy Entrepreneurship 
 
 As mentioned above, I’ve long had the desire to start to an eCom focused business in my beautiful island nation of Barbados and, I recently started the process  of becoming a self-taught full-stack developer about 2 years ago. These 2 things collided and birthed an idea to develop a SaaS that would benefit end users in an invaluable way. 
-The end users in this case being all citizens of and visitors on the island. I can’t go into much detail in this “about me read-me” but, rest assured that it’s a MASSIVE undertaking for someone young in their developer journey such as myself. As a result, I’m currently engaged in freelance development work building smaller projects as I hone the skills to build my own 👨🏾‍💻
+The end users in this case being all citizens of and visitors on the island. I can’t go into much detail in this “about me read-me” but, rest assured that it’s a MASSIVE undertaking for someone young in their developer journey such as myself. As a result, I’m currently engaged in freelance development work building smaller projects as I hone the skills needed to build my own 👨🏾‍💻
 
 * Sports & Entertainment
 
@@ -29,7 +29,7 @@ My other sporting interests are in football and basketball, and my heart cheers 
 [Ferrari's Absolute Power](https://www.ferrari.com/en-EN/formula1/singleseater-2022)
 
 
-## 🚀 My Dev Jounrney
+## 🚀 Current Dev Status
 I'm a full stack developer...
 
 Or at least that’s what I’ll be constantly working towards. I recently saw a joke being circulated in the dev community that goes, “there’s no such thing as a full-stack developer, only back-end developers who know a little CSS.” 
