@@ -35,7 +35,7 @@ I'm a full stack developer...
 Or at least that’s what I’ll be constantly working towards. I recently saw a joke being circulated in the dev community that goes, “there’s no such thing as a full-stack developer, only back-end developers who know a little CSS.” 
 And that’s terrifyingly true!!
 One of the first and most important lessons you learn as a developer is that you’ll never stop learning. Discovering the joy of building things with lines of code is something I’m glad I’ve found. 
-So glad in fact,  that I’m certain I never want to do anything else. My current ambition to build something that could positively impact an entire country is my sole focus right now. And in pursuing it I know I’ll attain a valuable library of knowledge, skill, and experience. Not attaining that goal could very realistically mean “only managing” to land a job at a major tech company and contributing to positively impacting the lives of millions instead. Which is not so bad innit 😁 ! 
+So glad in fact,  that I’m certain I never want to do anything else. My current ambition to build something that could positively impact an entire country is as challenging as it will be rewarding. And in pursuing it I know I’ll attain a valuable library of knowledge, skill, and experience. Not attaining that goal could very realistically mean “only managing” to land a job at a major tech company and contributing to positively impacting the lives of millions instead. Which is not so bad innit 😁 ! 
 
 ## 🛠 Current Dev Skills
 - HTML (Experienced)
