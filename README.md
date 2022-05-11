@@ -4,12 +4,9 @@
 My government name is Daniel Trotman, but the sheer amount of software engineers who share my name is slightly concerning. As a result, I use the nickname DannyBimma for all my socials excluding LinkedIn 🙂
 
 ## 🚀 About Me
-A full stack & aspiring mobile developer...
+I'm a software engineer in training...
 
-I’m currently a self employed web developer and consultant. Which means it’s my job to advise and assist small businesses/start-ups with their online presence and web services. I strive to effectively acquire customers and clients for the businesses/people I work with. To accomplish this I build websites/web-apps that harness the power of the web to attract and satisfy target audiences. Here is where I upload the source code to most of the projects I work on. 
-
-
-Most recently I’ve taken a strong interest in native iOS app development using Swift and Xcode. I plan to document as much of my learning journey as possible for anyone’s perusal 👨🏽‍💻
+I got my introduction into the tech industry through code along tutourials and udemy courses, and eventually I learned how to write code. But I wanted to build things with code that weren't broken down in step-by-step online videos, so I decided it was time to learn how to program.  
 
 
 ## Tech Stack
