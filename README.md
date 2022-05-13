@@ -1,7 +1,7 @@
 
 # DannyBimma
 
-My government name is Daniel Trotman, but the sheer amount of software engineers who share my name is slightly concerning. As a result, I use the nickname DannyBimma for all my socials excluding LinkedIn 🙂
+My government name is Daniel Trotman, but the sheer amount of software engineers who share my name is slightly concerning. As a result, I call myself DannyBimma 🙂
 
 ## 🚀 About Me
 I'm a software engineer in training...
@@ -11,9 +11,9 @@ I got my introduction into the tech industry through code along tutourials and u
 
 ## Tech Stack
 
-**Client:** Vanilla JavaScript, Raw HTML, Pure CSS, BootStrap, & SwiftUI.
+**Client:** C, Python, Vanilla JavaScript.
 
-**Server:** Node.js, Express & MongoDB. 
+**Server:** Node.js, Express, MongoDB. 
 
 
 ## 🔗 Links
