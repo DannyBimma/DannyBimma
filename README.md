@@ -1,12 +1,11 @@
 
 # DannyBimma
 
-My government name is Daniel Trotman, but the sheer amount of software engineers who share my name is slightly concerning. As a result, I call myself DannyBimma 🙂
+const string government_name = "Daniel Trotman";
+const string alias = "Danny Bimma";
 
 ## 🚀 About Me
-I'm a software engineer in training...
-
-I got my introduction into the tech industry through code along tutourials and udemy courses, and eventually I learned how to write code. But I wanted to build things with code that weren't broken down in step-by-step online videos, so I decided it was time to learn how to program.  
+Software engineer in training...
 
 
 ## Tech Stack
