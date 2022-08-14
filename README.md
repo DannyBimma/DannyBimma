@@ -4,7 +4,7 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-I derive way too much self validation from my commit graph...
+My code always compiles in the end, and if it doesn't compile then it's not the end.
 
 
 ## Tech Stack
