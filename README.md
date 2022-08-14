@@ -1,9 +1,7 @@
 
 # DannyBimma
 
-const string government_name = "Daniel Trotman";
-
-const string alias = "Danny Bimma";
+## 七転び八起き
 
 ## 🚀 About Me
 Software engineer in training...
