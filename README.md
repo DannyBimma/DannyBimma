@@ -4,7 +4,7 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-Software engineer in training...
+I derive way too much self validation from my commit graph...
 
 
 ## Tech Stack
