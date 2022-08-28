@@ -4,7 +4,7 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-I wish to see a world where standardised test are phased out but unit made manditory.
+I wish to see a world where standardised tests are phased out but unit tests made manditory.
 
 
 ## Tech Stack
