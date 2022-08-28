@@ -4,7 +4,7 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-My code always compiles in the end, and if it doesn't compile then it's not the end.
+I wish to see a world where standardised test are phased out but unit made manditory.
 
 
 ## Tech Stack
