@@ -4,14 +4,14 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-I wish to see a world where standardised tests have been phased out but unit tests have been made manditory.
+Currently getting familiar with Swift, but still staying in very close relations with C. My software passions are systems and networking code, and I'm a proud member of the Vim master race.
 
 
 ## Tech Stack
 
-**Client:** C, Python, Vanilla JavaScript.
+**Client:** Swift, HTML, CSS, Vanilla JavaScript.
 
-**Server:** Node.js, Express, MongoDB. 
+**Server:** Bash/Zsh, Node.js, C, Swift, SQLite. 
 
 
 ## 🔗 Links
