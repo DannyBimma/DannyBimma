@@ -4,14 +4,14 @@
 ## 七転び八起き
 
 ## 🚀 About Me
-Currently getting familiar with Swift, but still staying in very close relations with C. My software passions are systems and networking code, and I'm a proud member of the Vim master race.
+Left behind in the AI era.
 
 
 ## Tech Stack
 
-**Client:** Swift, HTML, CSS, Vanilla JavaScript.
+**Client:** Swift
 
-**Server:** Bash/Zsh, Node.js, C, Swift, SQLite. 
+**Server:** C
 
 
 ## 🔗 Links
